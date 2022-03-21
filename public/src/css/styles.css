@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* defined in index.html */
+.myparagraph {
+    color: rgb(199, 138, 199); /* set the text color */
+    background-color: rgb(79, 68, 151);
+
+    width: 5rem; /* set the width of the element to 5 relative units */
+    padding: 0.4rem; /* add space around object */
+    margin: 1rem; /* add empty space around the object */
+}
+
+/* https://developer.mozilla.org/en-US/docs/Learn/CSS */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS */
